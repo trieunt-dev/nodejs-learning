@@ -1,0 +1,11 @@
+* {
+    margin: 50px auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
